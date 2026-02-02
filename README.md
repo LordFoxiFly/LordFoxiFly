@@ -4,6 +4,7 @@
 <h2>👨‍💻 About Me</h2>
 
 - 🔭 Currently working on personal apps or minecraft mods
+- ⚡ My languages are: **java*
 - 🌱 Learning **.net** right now  
 
 <br/>
