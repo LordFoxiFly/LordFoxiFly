@@ -1,17 +1,17 @@
 ## Hi there 👋
 
+<!-- Quick intro -->
+<h2>👨‍💻 About Me</h2>
 
-**LordFoxiFly/LordFoxiFly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on personal apps  
+- 🌱 Learning **.net** right now  
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-  Backend development with .net
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- What I'm up to -->
+<h2>🚀 What I'm Currently Up To</h2>
 
+- 🔨 Building **[WordleWithEntropy](https://github.com/LordFoxiFly/WordleWithEntropy)** — a tool that solves Wordle with information theory 
+- 🎮 Playing around with **Fabric / Forge** for helpful minecraft mods like **[wynnmiata](https://github.com/LordFoxiFly/wynnmiata)** 
+
+<br/>
