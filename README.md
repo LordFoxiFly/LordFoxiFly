@@ -13,6 +13,7 @@
 <h2>🚀 What I'm Currently Up To</h2>
 
 - 🔨 Building **[WordleWithEntropy](https://github.com/LordFoxiFly/WordleWithEntropy)** — a tool that solves Wordle with information theory 
-- 🎮 Playing around with **Fabric / Forge** for helpful minecraft mods like **[wynnmiata](https://github.com/LordFoxiFly/wynnmiata)** 
+- 🎮 Playing around with **Fabric / Forge** for helpful minecraft mods like **[wynnmiata](https://github.com/LordFoxiFly/wynnmiata)**
+- I have some smaller projects aswell. Take a look if you want. 
 
 <br/>
