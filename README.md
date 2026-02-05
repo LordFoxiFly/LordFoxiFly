@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on personal apps or minecraft mods
 - ⚡ My languages are: **java**
-- 🌱 Learning **.net** right now  
+- 🌱 Learning **.net** and **SQL** right now  
 
 <br/>
 
